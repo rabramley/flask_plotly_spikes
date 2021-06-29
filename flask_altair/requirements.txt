@@ -1,0 +1,4 @@
+flask
+altair
+altair_saver
+pandas
